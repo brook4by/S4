@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\E3",
-    "\\E3\\PlatformService"
+    "\\E3\\PlatformService",
+    "\\E3\\PlatformService\\Profiles"
   ],
+  "SelectedNode": "\\E3\\PlatformService\\Profiles\\PlatformProfiles.cs",
   "PreviewInSolutionExplorer": false
 }
