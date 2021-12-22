@@ -392,6 +392,10 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
+obj
+bin
+.vs
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
