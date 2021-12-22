@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\ASP.NET\\S4\\E3\\PlatformService\\PlatformService.csproj": {}
+    "C:\\MyProjects\\S4\\E3\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\ASP.NET\\S4\\E3\\PlatformService\\PlatformService.csproj": {
+    "C:\\MyProjects\\S4\\E3\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\ASP.NET\\S4\\E3\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\MyProjects\\S4\\E3\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\MyProjects\\ASP.NET\\S4\\E3\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\MyProjects\\S4\\E3\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\vladislav.zinkovich\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\ASP.NET\\S4\\E3\\PlatformService\\obj\\",
+        "outputPath": "C:\\MyProjects\\S4\\E3\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
