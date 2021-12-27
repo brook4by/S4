@@ -6,7 +6,7 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: platformservice
+      app:  platformservice
   template:
     metadata:
       labels:
@@ -14,4 +14,3 @@ spec:
     spec:
       containers:
         - name: platformservice
-          image: brook4by/platformsevice:latest
