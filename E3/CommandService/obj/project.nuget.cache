@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nqW6IgwcACgsKzGZ3uwRGJc5k+E2Q45GSdIuZJlrXJ2+bzVmrnUXqHK0qQsioRU/r52MTswlXRwiG4TgcELhCQ==",
+  "dgSpecHash": "zXuOyOO7xpns2XoIo4iLUvmVGMB93L5qkucAB9aqDruDlDPgSsID24i+7tjqjNXcTFu/YD/CzqfFvsJ0L7N0Ow==",
   "success": true,
-  "projectFilePath": "C:\\MyProjects\\ASP.NET\\S4\\E3\\CommandService\\CommandsService.csproj",
+  "projectFilePath": "C:\\MyProjects\\S4\\E3\\CommandService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vladislav.zinkovich\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\vladislav.zinkovich\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

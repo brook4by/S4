@@ -1040,11 +1040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyProjects\\ASP.NET\\S4\\E3\\CommandService\\CommandsService.csproj",
+      "projectUniqueName": "C:\\MyProjects\\S4\\E3\\CommandService\\CommandsService.csproj",
       "projectName": "CommandsService",
-      "projectPath": "C:\\MyProjects\\ASP.NET\\S4\\E3\\CommandService\\CommandsService.csproj",
+      "projectPath": "C:\\MyProjects\\S4\\E3\\CommandService\\CommandsService.csproj",
       "packagesPath": "C:\\Users\\vladislav.zinkovich\\.nuget\\packages\\",
-      "outputPath": "C:\\MyProjects\\ASP.NET\\S4\\E3\\CommandService\\obj\\",
+      "outputPath": "C:\\MyProjects\\S4\\E3\\CommandService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1117,7 +1117,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

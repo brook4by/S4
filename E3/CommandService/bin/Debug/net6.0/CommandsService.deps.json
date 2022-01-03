@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "CommandService/1.0.0": {
+      "CommandsService/1.0.0": {
         "dependencies": {
           "AutoMapper": "10.1.1",
           "Microsoft.EntityFrameworkCore": "6.0.1",
@@ -15,7 +15,7 @@
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
-          "CommandService.dll": {}
+          "CommandsService.dll": {}
         }
       },
       "AutoMapper/10.1.1": {
@@ -209,7 +209,7 @@
     }
   },
   "libraries": {
-    "CommandService/1.0.0": {
+    "CommandsService/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
