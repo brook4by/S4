@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "K8S", "K8S", "{F34725B5-6A35-4A3C-896E-E9261EC61F7A}"
 	ProjectSection(SolutionItems) = preProject
 		commands-depl.yaml = commands-depl.yaml
+		ingress-srv.yaml = ingress-srv.yaml
 		platforms-depl.yaml = platforms-depl.yaml
 		platforms-np-srv.yaml = platforms-np-srv.yaml
 	EndProjectSection
