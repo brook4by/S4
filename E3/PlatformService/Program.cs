@@ -19,7 +19,9 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-Console.WriteLine($"--> CommandService EndPoint  {app.Configuration["CommandService"]}");
+Console.WriteLine($"--> CommandService EndPoint:  {app.Configuration["CommandService"]}");
+app.Logger.Log(LogLevel.Information, $"--> CommandService EndPoint:  {app.Configuration["CommandService"]}");
+app.Logger.Log(LogLevel.Information, $"--> Stage:  {app.Configuration["Stage"]}");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

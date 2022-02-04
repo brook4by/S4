@@ -18,6 +18,7 @@ namespace PlatformService.SyncDataServices.Http
         {
             var httpContent = new StringContent(
                 JsonSerializer.Serialize(plat), System.Text.Encoding.UTF8, "application/json");
+            Console.WriteLine(_configuration["CommandService"]);
 
             var response= await _httpClient.PostAsync($"{_configuration["CommandService"]}", httpContent);
             if (response.IsSuccessStatusCode)
