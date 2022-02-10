@@ -17,7 +17,6 @@ C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\Microsoft.OpenApi.dl
 C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\MyProjects\ASP.NET\S4\E3\CommandService\obj\Debug\net6.0\CommandsService.csproj.AssemblyReference.cache
 C:\MyProjects\ASP.NET\S4\E3\CommandService\obj\Debug\net6.0\CommandsService.GeneratedMSBuildEditorConfig.editorconfig
 C:\MyProjects\ASP.NET\S4\E3\CommandService\obj\Debug\net6.0\CommandsService.AssemblyInfoInputs.cache
 C:\MyProjects\ASP.NET\S4\E3\CommandService\obj\Debug\net6.0\CommandsService.AssemblyInfo.cs
