@@ -64,3 +64,4 @@ C:\MyProjects\S4\E3\CommandService\obj\Debug\net6.0\CommandsService.dll
 C:\MyProjects\S4\E3\CommandService\obj\Debug\net6.0\ref\CommandsService.dll
 C:\MyProjects\S4\E3\CommandService\obj\Debug\net6.0\CommandsService.pdb
 C:\MyProjects\S4\E3\CommandService\obj\Debug\net6.0\CommandsService.genruntimeconfig.cache
+C:\MyProjects\ASP.NET\S4\E3\CommandService\obj\Debug\net6.0\CommandsService.csproj.AssemblyReference.cache
