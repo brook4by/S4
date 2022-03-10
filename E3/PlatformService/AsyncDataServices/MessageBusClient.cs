@@ -1,4 +1,5 @@
-﻿using System.Text.Json;
+﻿using System.Text;
+using System.Text.Json;
 using PlatformService.Dtos;
 using RabbitMQ.Client;
 
@@ -41,10 +42,29 @@ public class MessageBusClient:IMessageBusClient
         if (_connection.IsOpen)
         {
             Console.WriteLine("--> RabbitMq Connection Open, sending message...");
+            SendMessage(message);
         }
         else
         {
             Console.WriteLine("--> RabbitMq Connection is Closed, not sending");
+        }
+    }
+
+    private void SendMessage(string message)
+    {
+        var body = Encoding.UTF8.GetBytes(message);
+        _channel.BasicPublish(exchange:"trigger", routingKey:"", basicProperties:null, body: body);
+
+        Console.WriteLine($"--> We have sent {message}");
+    }
+
+    public void Dispose()
+    {
+        Console.WriteLine("MessageBus Disposed");
+        if (_channel.IsOpen)
+        {
+            _channel.Close();
+            _connection.Close();
         }
     }
 
