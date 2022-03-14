@@ -67,3 +67,5 @@ C:\MyProjects\ASP.NET\S4\E3\CommandService\obj\Debug\net6.0\CommandsService.cspr
 C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\MyProjects\ASP.NET\S4\E3\CommandService\obj\Debug\net6.0\refint\CommandsService.dll
+C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\appsettings.Production.json
+C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\RabbitMQ.Client.dll
