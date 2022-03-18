@@ -28,6 +28,11 @@
   <ItemGroup>
     <Folder Include="AsyncDataServices\" />
     <Folder Include="Profiles\" />
+    <Folder Include="SyncDataServices\Grpc\" />
   </ItemGroup>
+
+	<ItemGroup>
+		<Protobuf Include="Protos\platforms.proto" GrpcServices="Client" />
+	</ItemGroup>
 
 </Project>

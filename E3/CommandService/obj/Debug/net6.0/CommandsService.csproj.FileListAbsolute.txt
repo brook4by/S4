@@ -69,3 +69,7 @@ C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\Microsoft.Extensions
 C:\MyProjects\ASP.NET\S4\E3\CommandService\obj\Debug\net6.0\refint\CommandsService.dll
 C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\appsettings.Production.json
 C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\Google.Protobuf.dll
+C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\MyProjects\ASP.NET\S4\E3\CommandService\bin\Debug\net6.0\Grpc.Net.Common.dll
